@@ -2,11 +2,11 @@
 title: Bibars
 ---
 
-## Welcome to My Personal Website
+## Welcome
 
-I am a researcher specializing in IoT.
+I am a researcher specializing in R&D.
 
 ### Links
 
-- [Scopus Profile](your-scopus-link)
-- [ORCID Profile](your-orcid-link)
+- [Scopus Profile](scopus-link)
+- [ORCID Profile](orcid-link)

@@ -1,10 +1,10 @@
 ---
-title: Bibars
+title: BB
 ---
 
 ## Welcome
 
-I am a researcher specializing in R&D.
+R&D.
 
 ### Links
 
